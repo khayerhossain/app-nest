@@ -9,11 +9,8 @@ Welcome to **AppNest** — a mobile-first app marketplace where users can explor
 
 ## 🖼️ Screenshots
 
-[![Homepage](https://i.ibb.co/svR4Hk42/Screenshot-2025-06-25-170514.png)](https://i.ibb.co/svR4Hk42/Screenshot-2025-06-25-170514.png)  
-*Home Page View*
-
-[![App Details](https://i.ibb.co/xSvqZ2BR/Screenshot-2025-06-25-170609.png)](https://i.ibb.co/xSvqZ2BR/Screenshot-2025-06-25-170609.png)  
-*App Install / Details Page*
+🔗 [Homepage Screenshot](https://i.ibb.co/svR4Hk42/Screenshot-2025-06-25-170514.png)  
+🔗 [App Details Screenshot](https://i.ibb.co/xSvqZ2BR/Screenshot-2025-06-25-170609.png)
 
 ---
 
