@@ -3,8 +3,17 @@
 Welcome to **AppNest** — a mobile-first app marketplace where users can explore, install, review, and manage different categories of mobile apps like **Education**, **Entertainment**, **Productivity**, and **Health**. This project is built with modern web tech and fully responsive for all devices.
 
 ---
+## 🔗 Live Demo
 
-![AppNest Screenshot](https://your-image-link.com) <!-- Replace with your actual image URL -->
+[![AppNest Live](https://assingment-09-5c3ab.web.app/)
+
+## 🖼️ Screenshots
+
+[![Homepage](https://i.ibb.co/svR4Hk42/Screenshot-2025-06-25-170514.png)](https://i.ibb.co/svR4Hk42/Screenshot-2025-06-25-170514.png)  
+*Home Page View*
+
+[![App Details](https://i.ibb.co/xSvqZ2BR/Screenshot-2025-06-25-170609.png)](https://i.ibb.co/xSvqZ2BR/Screenshot-2025-06-25-170609.png)  
+*App Install / Details Page*
 
 ---
 
@@ -31,8 +40,6 @@ Welcome to **AppNest** — a mobile-first app marketplace where users can explor
 
 ## 📦 Dependencies
 
-Here are the main dependencies used in this project:
-
 bash
 "firebase": "^9.x.x"
 "react": "^18.x.x"
@@ -40,6 +47,7 @@ bash
 "react-router-dom": "^6.x.x"
 "tailwindcss": "^3.x.x"
 "daisyui": "^3.x.x"
+
 
 Run Localy
 # 1. Clone the repository
