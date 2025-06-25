@@ -1,0 +1,702 @@
+[
+  {
+    "id": "app001",
+    "name": "TikTok",
+    "developer": "ByteDance",
+    "thumbnail": "https://i.ibb.co.com/VYydjfbS/746d7b43-83fd-4302-8193-66b5fdcd9517.jpg",
+    "category": "Social",
+    "downloads": "1B+",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "profile_name": "Ayaan Rahman",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2023-11-14",
+        "comment": "Addictive short videos! Perfect for quick entertainment."
+      },
+      {
+        "profile_name": "Pritom Sarker",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2021-01-19",
+        "comment": "Trends start here—I discover new music and memes daily!"
+      }
+    ],
+    "description": "A short-form video platform for creating and sharing entertaining clips.",
+    "about": "TikTok: Create and share short videos with effects, music, and filters. Discover trending content with personalized recommendations. Join the global creative community."
+  },
+  {
+    "id": "app002",
+    "name": "Instagram",
+    "developer": "Meta Platforms, Inc.",
+    "thumbnail": "https://i.ibb.co.com/4ZpzDwQY/9660b50a-7516-44a9-9411-30e0f9aaf8ee.jpg",
+    "category": "Social",
+    "downloads": "5B+",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "profile_name": "Nafisa Karim",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2021-06-28",
+        "comment": "Love the filters and stories feature!"
+      },
+      {
+        "profile_name": "Liza Noor",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-09-15",
+        "comment": "Reels are my guilty pleasure—so creative!"
+      }
+    ],
+    "description": "A social media app to share photos, reels, and connect with people worldwide.",
+    "about": "Instagram: Share photos and videos through posts, stories, and reels. Connect with friends, discover content, and shop from businesses worldwide."
+  },
+  {
+    "id": "app003",
+    "name": "Apple Health",
+    "developer": "Apple Inc.",
+    "thumbnail": "https://i.ibb.co.com/vCjGsnTy/Why-Every-Mom-Needs-an-Apple-Watch.jpg",
+    "category": "Health & Fitness",
+    "downloads": "200M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Rehan Chowdhury",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2024-03-09",
+        "comment": "Tracks my workouts accurately. Very useful!"
+      },
+      {
+        "profile_name": "Adnan Hasan",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2025-03-04",
+        "comment": "Sleep tracking changed my nightly routine!"
+      }
+    ],
+    "description": "Tracks health data like steps, heart rate, sleep, and integrates with health apps.",
+    "about": "Apple Health: Track steps, heart rate, sleep, and workouts. Centralize health data from various apps and devices in one place."
+  },
+  {
+    "id": "app004",
+    "name": "Health Rings",
+    "developer": "FitLife Inc.",
+    "thumbnail": "https://i.ibb.co.com/HD397MB6/f6cc88f8-4645-405d-8054-d726b4ed5473.jpg",
+    "category": "Health & Fitness",
+    "downloads": "10M+",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "profile_name": "Mehzabin Akter",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2020-10-23",
+        "comment": "Motivates me to close my rings daily!"
+      },
+      {
+        "profile_name": "Farhana Lima",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2022-12-12",
+        "comment": "The visual progress is so satisfying!"
+      }
+    ],
+    "description": "Visual ring-based health tracker that encourages daily movement and workouts.",
+    "about": "Health Rings: Visual ring-based tracker motivating daily movement. Close your activity rings to build healthy habits with satisfying progress visuals."
+  },
+  {
+    "id": "app005",
+    "name": "Notion",
+    "developer": "Notion Labs, Inc.",
+    "thumbnail": "https://i.ibb.co.com/r2rFSjGS/Compare-Notion-vs-Evernote-to-find-the-best.jpg",
+    "category": "Productivity-",
+    "downloads": "50M+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Tasin Alam",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2022-07-11",
+        "comment": "My life is organized now. All-in-one workspace!"
+      },
+      {
+        "profile_name": "Shihab Hossain",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2024-06-17",
+        "comment": "Perfect for team collaboration and personal projects."
+      }
+    ],
+    "description": "An all-in-one workspace for notes, tasks, databases, wikis, and collaboration.",
+    "about": "Notion: All-in-one workspace for notes, tasks, wikis, and databases. Organize personal and team projects in customizable layouts."
+  },
+  {
+    "id": "app006",
+    "name": "My Institute",
+    "developer": "The Great Apps",
+    "thumbnail": "https://i.ibb.co.com/6JT0w0Jg/Featured-App-on-The-Great-Apps-My-Institute-by.jpg",
+    "category": "Education",
+    "downloads": "1M+",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "profile_name": "Jannat Hossain",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2025-01-17",
+        "comment": "Great for managing online classes."
+      },
+      {
+        "profile_name": "Nayeem Islam",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-06-06",
+        "comment": "Simplified attendance tracking for our school!"
+      }
+    ],
+    "description": "Helps educational institutes manage online classes, attendance, and exams.",
+    "about": "My Institute: Digital platform for schools to manage classes, attendance, and exams. Streamline education administration and student engagement."
+  },
+  {
+    "id": "app007",
+    "name": "ChatGPT",
+    "developer": "OpenAI",
+    "thumbnail": "https://i.ibb.co.com/v4CvYvZ1/How-to-create-a-GPT.jpg",
+    "category": "AI Tools",
+    "downloads": "100M+",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "profile_name": "Rayhan Kabir",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2021-12-30",
+        "comment": "Answers all my questions intelligently!"
+      },
+      {
+        "profile_name": "Tahsin Alam",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2024-08-19",
+        "comment": "My coding assistant—saves hours of debugging!"
+      }
+    ],
+    "description": "Conversational AI that assists with writing, coding, answering questions, and more.",
+    "about": "ChatGPT: AI assistant for answering questions, writing, coding help, and creative ideas. Features include image generation and voice conversations."
+  },
+  {
+    "id": "app008",
+    "name": "Duolingo",
+    "developer": "Duolingo Inc.",
+    "thumbnail": "https://i.ibb.co.com/W4H9H2KK/3234f189-d999-4719-b53e-17c278921e88.jpg",
+    "category": "Education",
+    "downloads": "300M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Mahiya Sultana",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2023-02-07",
+        "comment": "Learning Spanish has never been this fun!"
+      },
+      {
+        "profile_name": "Rodela Ferdous",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-12-02",
+        "comment": "The owl motivates me even when I don't want to!"
+      }
+    ],
+    "description": "Learn over 30 languages through interactive and gamified lessons.",
+    "about": "Duolingo: Learn languages through fun, bite-sized lessons. Practice speaking, reading, listening, and writing with gamified exercises."
+  },
+  {
+    "id": "app009",
+    "name": "Twitter",
+    "developer": "X Corp",
+    "thumbnail": "https://i.ibb.co.com/xSg7PJvz/43644687-02a7-4988-a209-0340fcd4e40f.jpg",
+    "category": "Social",
+    "downloads": "1B+",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "profile_name": "Sajid Mahmud",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2020-04-18",
+        "comment": "Best for real-time news and debates."
+      },
+      {
+        "profile_name": "Moumita Das",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2023-10-31",
+        "comment": "Threads make complex topics digestible."
+      }
+    ],
+    "description": "A microblogging platform for real-time news, opinions, and trending conversations.",
+    "about": "Twitter: Microblogging platform for real-time news, opinions, and trends. Share thoughts in posts and join public conversations."
+  },
+  {
+    "id": "app010",
+    "name": "YouTube",
+    "developer": "Google LLC",
+    "thumbnail": "https://i.ibb.co.com/0pmJ0R6B/Free-download-You-Tube-icon-logo.jpg",
+    "category": "Entertainment",
+    "downloads": "10B+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Riya Hasan",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2022-11-03",
+        "comment": "Endless entertainment and learning resources!"
+      },
+      {
+        "profile_name": "Arif Mahmud",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2024-01-23",
+        "comment": "YouTube Premium is worth every penny—no ads!"
+      }
+    ],
+    "description": "Watch, upload, and share videos ranging from vlogs to tutorials and music.",
+    "about": "YouTube: Watch and share videos worldwide. Enjoy music, tutorials, vlogs, and live streams with personalized recommendations."
+  },
+  {
+    "id": "app011",
+    "name": "Spotify",
+    "developer": "Spotify AB",
+    "thumbnail": "https://i.ibb.co.com/ccDSxffg/964b747c-5bbd-46c5-bbf8-686ca7f75050.jpg",
+    "category": "Music",
+    "downloads": "1B+",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "profile_name": "Anik Ahmed",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2024-09-25",
+        "comment": "Perfect music recommendations every time."
+      },
+      {
+        "profile_name": "Nusrat Nahar",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2020-01-06",
+        "comment": "Discover Weekly introduces me to new favorites!"
+      }
+    ],
+    "description": "Stream millions of songs and podcasts across all genres and moods.",
+    "about": "Spotify: Stream millions of songs and podcasts. Discover new music with personalized playlists and recommendations."
+  },
+  {
+    "id": "app012",
+    "name": "WhatsApp",
+    "developer": "Meta Platforms, Inc.",
+    "thumbnail": "https://i.ibb.co.com/F4TMVdCK/Whatsapp-Icono-Gratis.jpg",
+    "category": "Communication",
+    "downloads": "5B+",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "profile_name": "Nusrat Nahar",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2020-01-06",
+        "comment": "Reliable messaging with end-to-end encryption."
+      },
+      {
+        "profile_name": "Fahim Uddin",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2023-07-29",
+        "comment": "Group chats make family coordination easy!"
+      }
+    ],
+    "description": "A messaging app for free texts, calls, and sharing media securely.",
+    "about": "WhatsApp: Message, call, and share media securely. End-to-end encrypted communication with individuals and groups worldwide."
+  },
+  {
+    "id": "app013",
+    "name": "PUBG Mobile",
+    "developer": "KRAFTON",
+    "thumbnail": "https://i.ibb.co.com/SDS1PLgR/484aa68d-78d8-4610-8832-4ccd50669427.jpg",
+    "category": "Games",
+    "downloads": "1B+",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "profile_name": "Fahim Uddin",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2023-07-29",
+        "comment": "Thrilling battle royale experience!"
+      },
+      {
+        "profile_name": "Ruksana Jahan",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2021-05-02",
+        "comment": "Squad gameplay with friends is unbeatable!"
+      }
+    ],
+    "description": "Battle royale shooter game with multiplayer action and tactical gameplay.",
+    "about": "PUBG Mobile: Intense battle royale shooter with realistic graphics. Survive against 100 players in solo, duo, or squad matches."
+  },
+  {
+    "id": "app014",
+    "name": "Free Fire",
+    "developer": "Garena",
+    "thumbnail": "https://i.ibb.co.com/8gRG6SJM/Free-Fire-Logo.jpg",
+    "category": "Games",
+    "downloads": "1B+",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "profile_name": "Ruksana Jahan",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2021-05-02",
+        "comment": "Fast-paced and works on low-end phones!"
+      },
+      {
+        "profile_name": "Zidan Anwar",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-08-20",
+        "comment": "Quick 10-minute matches fit my busy schedule."
+      }
+    ],
+    "description": "Fast-paced survival shooter game optimized for low-end devices.",
+    "about": "Free Fire: Fast-paced battle royale with 10-minute matches. Optimized for mobile with smooth gameplay on various devices."
+  },
+  {
+    "id": "app015",
+    "name": "Minecraft",
+    "developer": "Mojang",
+    "thumbnail": "https://i.ibb.co.com/SX4L7cJ9/Minecraft-Pocket-Edition-Application-sur.jpg",
+    "category": "Games",
+    "downloads": "1B+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Zidan Anwar",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2020-08-20",
+        "comment": "Unlimited creativity in blocky worlds!"
+      },
+      {
+        "profile_name": "Mim Chowdhury",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2024-05-13",
+        "comment": "My kids and I build together—family bonding!"
+      }
+    ],
+    "description": "Block-based sandbox game for building, mining, crafting, and exploring.",
+    "about": "Minecraft: Infinite sandbox world to build, explore and survive. Create anything imaginable with blocks in single or multiplayer."
+  },
+  {
+    "id": "app016",
+    "name": "Temple Run 2",
+    "developer": "Imangi Studios",
+    "thumbnail": "https://i.ibb.co.com/G4kTDHg4/Cell-One-Staff-Pick-Temple-Run-2.jpg",
+    "category": "Games",
+    "downloads": "500M+",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "profile_name": "Mim Chowdhury",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2024-05-13",
+        "comment": "Classic endless runner with great upgrades."
+      },
+      {
+        "profile_name": "Saifur Rahman",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2022-03-22",
+        "comment": "Nostalgic and still fun after all these years!"
+      }
+    ],
+    "description": "Endless running game with obstacles, power-ups, and treasure chasing.",
+    "about": "Temple Run 2: Classic endless runner with improved graphics. Escape the monster while collecting coins and power-ups."
+  },
+  {
+    "id": "app017",
+    "name": "Google Drive",
+    "developer": "Google LLC",
+    "thumbnail": "https://i.ibb.co.com/Gv24YXbV/31-Google-Drive-free-online-storage.jpg",
+    "category": "Productivity",
+    "downloads": "5B+",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "profile_name": "Saifur Rahman",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2022-03-22",
+        "comment": "Cloud storage that never fails me."
+      },
+      {
+        "profile_name": "Tanha Islam",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2021-09-10",
+        "comment": "Shared folders make group projects seamless."
+      }
+    ],
+    "description": "Secure cloud storage for your files, photos, and documents with easy sharing options.",
+    "about": "Google Drive: Cloud storage with 15GB free space. Store, share, and collaborate on files from any device."
+  },
+  {
+    "id": "app018",
+    "name": "Noteshelf",
+    "developer": "Fluid Touch",
+    "thumbnail": "https://i.ibb.co.com/99K3WvzJ/Noteshelf-Take-Notes-Handwriting-Annotate-PDF.jpg",
+    "category": "Productivity",
+    "downloads": "10M+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Tanha Islam",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2021-09-10",
+        "comment": "Best digital notebook for handwritten notes."
+      },
+      {
+        "profile_name": "Imran Hossain",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2025-04-01",
+        "comment": "PDF annotation saves me hours of work!"
+      }
+    ],
+    "description": "Handwrite notes, annotate PDFs, and organize your thoughts in a digital notebook.",
+    "about": "Noteshelf: Digital notebook for handwritten notes and PDF annotation. Organize ideas with customizable notebooks and templates."
+  },
+  {
+    "id": "app019",
+    "name": "Canva",
+    "developer": "Canva",
+    "thumbnail": "https://i.ibb.co.com/MkhfBppd/cfe5ff64-9b7e-4059-a87e-e509ad98903b.jpg",
+    "category": "Productivity",
+    "downloads": "100M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Imran Hossain",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2025-04-01",
+        "comment": "Professional designs in minutes!"
+      },
+      {
+        "profile_name": "Sumaiya Khatun",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2022-10-15",
+        "comment": "Templates make social media management a breeze."
+      }
+    ],
+    "description": "Graphic design tool for creating social media posts, presentations, posters, and more.",
+    "about": "Canva: Easy graphic design tool with templates. Create social media posts, presentations, logos, and more in minutes."
+  },
+  {
+    "id": "app020",
+    "name": "Forest",
+    "developer": "SeekrTech",
+    "thumbnail": "https://i.ibb.co.com/rhZ53Q1/VO2-Go-Go-article-Forest-An-App-To-Help-You-Focus.jpg",
+    "category": "Productivity",
+    "downloads": "10M+",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "profile_name": "Sumaiya Khatun",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2022-10-15",
+        "comment": "Grows focus and trees simultaneously!"
+      },
+      {
+        "profile_name": "Nayeem Islam",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-06-06",
+        "comment": "Seeing my forest grow keeps me accountable."
+      }
+    ],
+    "description": "Helps you stay off your phone and focused by growing a virtual forest.",
+    "about": "Forest: Stay focused by growing virtual trees. Avoid phone distractions and plant real trees through partnerships."
+  },
+  {
+    "id": "app021",
+    "name": "BetterMe",
+    "developer": "BetterMe Limited",
+    "thumbnail": "https://i.ibb.co.com/TxSs7n6y/Better-Me-Entra-nements-dans-l-App-Store.jpg",
+    "category": "Health & Fitness",
+    "downloads": "50M+",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "profile_name": "Nayeem Islam",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2020-06-06",
+        "comment": "Personalized workouts that deliver results."
+      },
+      {
+        "profile_name": "Tahsin Alam",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2024-08-19",
+        "comment": "Meal plans are realistic and delicious!"
+      }
+    ],
+    "description": "Provides fitness/nutrition plans and mental wellness tools.",
+    "about": "BetterMe: Personalized fitness and nutrition plans. Home workouts, meal plans, and mental health exercises."
+  },
+  {
+    "id": "app022",
+    "name": "HeartFit",
+    "developer": "CardioCare Inc.",
+    "thumbnail": "https://i.ibb.co.com/CK681c1k/heart.png",
+    "category": "Health & Fitness",
+    "downloads": "5M+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Tahsin Alam",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2024-08-19",
+        "comment": "Keeps my heart health in check."
+      },
+      {
+        "profile_name": "Lamia Aktar",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2023-03-06",
+        "comment": "Alerts me when my heart rate spikes—lifesaver!"
+      }
+    ],
+    "description": "Monitors heart rate and offers cardiovascular insights.",
+    "about": "HeartFit: Heart rate monitoring and cardiovascular health tracker. Get alerts for abnormal readings and track trends."
+  },
+  {
+    "id": "app028",
+    "name": "Learn English",
+    "developer": "English Academy",
+    "thumbnail": "https://i.ibb.co.com/vvv8BNH3/31eebf4b-2d54-407e-bd77-b9594dff4b2a.jpg",
+    "category": "Education",
+    "downloads": "100M+",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "profile_name": "Lamia Aktar",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2023-03-06",
+        "comment": "Made English learning effortless!"
+      },
+      {
+        "profile_name": "Shafayet Karim",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2021-11-27",
+        "comment": "Pronunciation exercises improved my confidence!"
+      }
+    ],
+    "description": "Interactive English courses with real-life examples.",
+    "about": "Learn English: Interactive courses with pronunciation practice. Real-life examples and personalized lessons."
+  },
+  {
+    "id": "app029",
+    "name": "Coorsera",
+    "developer": "Coorsera, Inc.",
+    "thumbnail": "https://i.ibb.co.com/35nrp0bc/e231e7dd-8858-40e9-87ac-3f38431a8157.jpg",
+    "category": "Education",
+    "downloads": "50M+",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "profile_name": "Shafayet Karim",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2021-11-27",
+        "comment": "University-quality courses at home."
+      },
+      {
+        "profile_name": "Rodela Ferdous",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2020-12-02",
+        "comment": "Financial aid options make education accessible."
+      }
+    ],
+    "description": "On-demand video courses across various subjects.",
+    "about": "Coorsera: Online courses from top universities. Learn business, tech, arts and more with flexible scheduling."
+  },
+  {
+    "id": "app030",
+    "name": "Kahoot!",
+    "developer": "Kahoot! AS",
+    "thumbnail": "https://i.ibb.co.com/bRHFWGH2/The-Best-Quiz-and-Game-Show-Apps-for-Classrooms.jpg",
+    "category": "Education",
+    "downloads": "100M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Rodela Ferdous",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2020-12-02",
+        "comment": "Students beg to play this daily!"
+      },
+      {
+        "profile_name": "Tareq Zaman",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2022-05-08",
+        "comment": "Custom quizzes make test prep fun."
+      }
+    ],
+    "description": "Game-based learning platform for educational quizzes.",
+    "about": "Kahoot!: Game-based learning with interactive quizzes. Create or play educational games in classrooms or remotely."
+  },
+  {
+    "id": "app031",
+    "name": "Khan Academy",
+    "developer": "Khan Academy",
+    "thumbnail": "https://i.ibb.co.com/xtsScVV1/30-Helpful-Things-On-The-Web-That-Are-Free-And.jpg",
+    "category": "Education",
+    "downloads": "10M+",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "profile_name": "Tareq Zaman",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2022-05-08",
+        "comment": "Free world-class education for all."
+      },
+      {
+        "profile_name": "Moumita Das",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2023-10-31",
+        "comment": "Sal Khan explains math like no one else!"
+      }
+    ],
+    "description": "Free courses in math, science, economics, etc.",
+    "about": "Khan Academy: Free educational courses in math, science, and more. Video lessons and practice exercises for all ages."
+  },
+  {
+    "id": "app032",
+    "name": "10 Minites School",
+    "developer": "Photomath, Inc.",
+    "thumbnail": "https://i.ibb.co.com/hFGh5msj/unnamed.jpg",
+    "category": "Education",
+    "downloads": "100M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Moumita Das",
+        "profile_image": "https://i.ibb.co.com/1Jfx44PS/adventurer-1746544578959.png",
+        "date": "2023-10-31",
+        "comment": "Solves math problems in seconds!"
+      },
+      {
+        "profile_name": "Arif Mahmud",
+        "profile_image": "https://i.ibb.co.com/nN5XyLSC/adventurer-1746544566500.png",
+        "date": "2024-01-23",
+        "comment": "Step-by-step explanations are crystal clear."
+      }
+    ],
+    "description": "Scan math problems for step-by-step explanations.",
+    "about": "10 Minutes School: Bite-sized educational content. Quick lessons on academic subjects and practical skills."
+  },
+  {
+    "id": "app033",
+    "name": "Neptune",
+    "developer": "Programming Hero",
+    "thumbnail": "https://i.ibb.co.com/HpVr5P4F/Screenshot-2025-05-06-001522.png",
+    "category": "Education",
+    "downloads": "1M+",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "profile_name": "Arif Mahmud",
+        "profile_image": "https://i.ibb.co.com/qMJsjnbP/adventurer-1746544561848.png",
+        "date": "2024-01-23",
+        "comment": "Coding feels like playing a game!"
+      },
+      {
+        "profile_name": "Pritom Sarker",
+        "profile_image": "https://i.ibb.co.com/G41xYs0j/adventurer-1746544556293.png",
+        "date": "2021-01-19",
+        "comment": "Built my first app within a week—thanks Neptune!"
+      }
+    ],
+    "description": "Gamified learning experience for coding beginners.",
+    "about": "Neptune: Learn coding through gamified lessons. Build real apps while mastering programming fundamentals."
+  }
+]
