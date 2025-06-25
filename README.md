@@ -5,7 +5,7 @@ Welcome to **AppNest** — a mobile-first app marketplace where users can explor
 ---
 ## 🔗 Live Demo
 
-[![AppNest Live](https://assingment-09-5c3ab.web.app/)
+[AppNest Live](https://assingment-09-5c3ab.web.app/)
 
 ## 🖼️ Screenshots
 
